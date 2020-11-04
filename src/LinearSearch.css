@@ -1,0 +1,19 @@
+.linear-search {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  margin: 50px;
+}
+
+form {
+  justify-content: center;
+  align-items: center;
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+form > * {
+  padding: 5px;
+  margin: 10px;
+}
